@@ -1,0 +1,13 @@
+useMetadata = "true"
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="alchemy"
+version="1.15.2-0.0.1.0"
+name="Simple Alchemy"
+description='''Its been centuries since we have tried to make gold from rocks, lets try again.'''
+credits=""
+authors="Overseer"
+
+
+
